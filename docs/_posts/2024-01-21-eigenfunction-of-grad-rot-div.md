@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  ベクトル解析でよくみる微分作用素の固有関数
-date:   2024-01-20 00:00:00 +0900
+date:   2024-01-21 04:02:00 +0900
 categories: eigenfunction
 ---
 <script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
