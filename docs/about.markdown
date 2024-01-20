@@ -1,18 +1,15 @@
 ---
 layout: page
-title: About
+title: About me
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+1taroh という名前で活動しています．
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+大学院修士1回生やってます．
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+専門は電気回路網で，とくにネットワーク構造についての研究をしています．
 
+使える言語はPython, MATLAB, C++(モダンなC++は無理でやんす)
 
-[jekyll-organization]: https://github.com/jekyll
+なお，本ブログはRuby + Jekyll でできていますが，Ruby はようわかりません :(
