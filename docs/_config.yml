@@ -19,6 +19,7 @@
 # in the templates via {{ site.myvariable }}.
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 title: Home
 =======
 <<<<<<< HEAD
@@ -37,6 +38,8 @@ github_username:  1taroh
 =======
 # github_username:  jekyll
 =======
+=======
+>>>>>>> 0e401bc (create a new post)
 title: Home
 # email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
@@ -47,10 +50,15 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
 github_username:  1taroh
+<<<<<<< HEAD
 >>>>>>> 5b80fb9 (chnage something about theme)
 >>>>>>> e46d30e (chnage something about theme)
 
 # Build settings
+=======
+
+# # Build settings
+>>>>>>> 0e401bc (create a new post)
 theme: minima
 plugins:
   - jekyll-feed
@@ -73,4 +81,8 @@ plugins:
 #   - vendor/bundle/
 #   - vendor/cache/
 #   - vendor/gems/
+<<<<<<< HEAD
 #   - vendor/ruby/
+=======
+#   - vendor/ruby/
+>>>>>>> 0e401bc (create a new post)
