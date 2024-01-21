@@ -121,7 +121,7 @@ $$
 
 どうでしょう... 固有関数としてありといえばありな気もします．
 
-\\( \mathrm{rot} \\) を \\( [\mathrm{e}^{\lambda_x x} \ \mathrm{e}^{\lambda_y y} \ \mathrm{e}^{\lambda_z z}]^\top \\) に作用させてみます．
+\\( \mathrm{rot} \\) を \\( [1 \ 1 \ 1]^\top (\mathrm{e}^{\lambda_x x}+\mathrm{e}^{\lambda_y y}+\mathrm{e}^{\lambda_z z}) \\) に作用させてみます．
 
 $$
 \begin{align}
