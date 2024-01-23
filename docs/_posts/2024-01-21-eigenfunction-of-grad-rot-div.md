@@ -127,8 +127,9 @@ $$
 \begin{align}
     \mathrm{rot} \ 
     \begin{bmatrix}
-        \mathrm{e}^{\lambda_x x} \\ \mathrm{e}^{\lambda_y y} \\ \mathrm{e}^{\lambda_z z}
+        1 \\ 1 \\ 1
     \end{bmatrix}
+    (\mathrm{e}^{\lambda_x x}+\mathrm{e}^{\lambda_y y}+\mathrm{e}^{\lambda_z z})
     &= 
     \begin{bmatrix}
         \lambda_z - \lambda_y & & \\ 
@@ -136,8 +137,9 @@ $$
         & & \lambda_y - \lambda_x
     \end{bmatrix}
     \begin{bmatrix}
-        \mathrm{e}^{\lambda_x x} \\ \mathrm{e}^{\lambda_y y} \\ \mathrm{e}^{\lambda_z z}
+        1 \\ 1 \\ 1
     \end{bmatrix}
+    (\mathrm{e}^{\lambda_x x}+\mathrm{e}^{\lambda_y y}+\mathrm{e}^{\lambda_z z})
 \end{align}
 $$
 
